@@ -2,7 +2,7 @@
 
 Combine a chestplate and an elytra at an anvil into a single item that protects like the armor and flies like the elytra. Paper 1.21.11, no commands for players, no client mods.
 
-![Merged chestplate icons: vanilla on the left, merged on the right, for every material](docs/icon-preview.png)
+![Merged chestplate icons: vanilla on the left, merged on the right, for every material](preview.png)
 
 ## Download
 
